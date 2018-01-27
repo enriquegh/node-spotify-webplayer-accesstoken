@@ -1,0 +1,16 @@
+{
+  "name": "spotify-webplayer-accesstoken",
+  "version": "1.0.0",
+  "description": "Wrapper around Web Spotify Player to get an access token that simply works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "tough-cookie": "^2.3.3"
+  }
+}
